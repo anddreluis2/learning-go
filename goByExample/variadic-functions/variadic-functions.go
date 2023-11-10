@@ -19,6 +19,4 @@ func main() {
 
 	numbers := []int{1, 2, 3, 4}
 	sum(numbers...)
-	sum(numbers...)
-
 }
